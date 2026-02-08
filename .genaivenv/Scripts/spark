@@ -1,0 +1,3 @@
+#!C:\Users\Suchi_Kumari\GenAI_Capston\.genaivenv\Scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
